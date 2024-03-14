@@ -1,0 +1,6 @@
+com\mycompany\lab02_tc100220\Lab02_TC100220.class
+BeansStateful\IContador.class
+BeansSingleton\IUtilRemote.class
+com\mycompany\lab02_tc100220\Beans\ISaludoRemote.class
+com\mycompany\lab02_tc100220\Beans\Saludo.class
+BeansSingleton\Util.class
